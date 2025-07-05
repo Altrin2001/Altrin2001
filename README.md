@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://www.instagram.com/altrin_kingson?igsh=ZDA5eDV4emZldjJz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="www.linkedin.com/in/altrin-kingson" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="altrinkingson@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:altrinkingson@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
