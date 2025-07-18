@@ -70,8 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=Altrin2001&theme=github-dark&hide_border=false" alt="GitHub Streaks" />
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altrin2001&theme=github_dark&hide_border=false&layout=compact&langs_count=10&hide=php,scss,objective-c" alt="Top Languages" />
-  <br/><br/>
+
 
   <img src="https://img.shields.io/badge/Focused%20Language-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
